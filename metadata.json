@@ -1,0 +1,8 @@
+{
+  "name": "VALL CARE Trade - Medical Supplies & Appointment Booking",
+  "description": "Official booking portal and medical supplies catalog for VALL CARE Trade (مؤسسة وادي الرعاية للتجارة) in Riyadh, Saudi Arabia. Schedule procurement meetings directly via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
